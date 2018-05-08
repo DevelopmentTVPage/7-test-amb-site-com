@@ -3,7 +3,14 @@
     "first_name": "test",
     "last_name": "ex",
     "email": "test@ex.com",
-    "data": "{\"incentive\":\"3\",\"profilePhoto\":\"\\\/api\\\/canvas\\\/logo\\\/615309758-0.1250553090125.jpg\",\"job_title\":\"asdfa\",\"local_macys_store\":\"1\",\"racif_id\":\"1112333223\",\"phone_number\":\"123123131323\"}",
+    "data": {
+        "incentive": "3",
+        "profilePhoto": "\/api\/canvas\/logo\/615309758-0.1250553090125.jpg",
+        "job_title": "asdfa",
+        "local_macys_store": "1",
+        "racif_id": "1112333223",
+        "phone_number": "123123131323"
+    },
     "last_login_timestamp": "1525394350",
     "created_timestamp": "2018-05-04 00:17:53",
     "modified_timestamp": "2018-05-04 00:17:53",
@@ -11,5 +18,8 @@
     "user_id": "1637",
     "role_id": "2",
     "status": "2",
+    "fullName": "test ex",
+    "profile_picture": "\/api\/canvas\/logo\/615309758-0.1250553090125.jpg",
+    "titleTextEncoded": "test-ex",
     "videos_count": "0"
 }

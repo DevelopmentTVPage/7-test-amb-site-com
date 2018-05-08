@@ -3,7 +3,14 @@
     "first_name": "new",
     "last_name": "test",
     "email": "new@ex.com",
-    "data": "{\"incentive\":\"15\",\"profilePhoto\":\"\\\/\\\/sitecdn.tvpage.com\\\/player\\\/logos\\\/default_profile.jpg\",\"job_title\":\"Managet\",\"local_macys_store\":\"119\",\"racif_id\":\"12345678\",\"phone_number\":\"1234567890\"}",
+    "data": {
+        "incentive": "15",
+        "profilePhoto": "\/\/sitecdn.tvpage.com\/player\/logos\/default_profile.jpg",
+        "job_title": "Managet",
+        "local_macys_store": "119",
+        "racif_id": "12345678",
+        "phone_number": "1234567890"
+    },
     "last_login_timestamp": "1524874055",
     "created_timestamp": "2018-04-28 00:01:21",
     "modified_timestamp": "2018-04-28 00:01:21",
@@ -11,5 +18,8 @@
     "user_id": "37",
     "role_id": "2",
     "status": "2",
+    "fullName": "new test",
+    "profile_picture": "\/\/sitecdn.tvpage.com\/player\/logos\/default_profile.jpg",
+    "titleTextEncoded": "new-test",
     "videos_count": "0"
 }
