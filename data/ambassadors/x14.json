@@ -1,0 +1,15 @@
+{
+    "id": "14",
+    "first_name": "Test user",
+    "last_name": "Test",
+    "email": "user+12345@mail.com",
+    "data": "{\"profilePhoto\":\"\\\/\\\/sitecdn.tvpage.com\\\/player\\\/logos\\\/default_profile.jpg\"}",
+    "last_login_timestamp": "1524844806",
+    "created_timestamp": "0000-00-00 00:00:00",
+    "modified_timestamp": "2018-04-18 23:43:20",
+    "login_id": "1759121",
+    "user_id": "14",
+    "role_id": "2",
+    "status": "2",
+    "videos_count": "1"
+}

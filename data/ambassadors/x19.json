@@ -1,0 +1,15 @@
+{
+    "id": "19",
+    "first_name": "Damian",
+    "last_name": "New Test",
+    "email": "z@z.com",
+    "data": "{\"profilePhoto\":\"\/api\/canvas\/logo\/720363192-0.9217491742689.jpg\",\"job_title\":\"saddfs\",\"local_macys_store\":\"15\",\"racif_id\":\"asd\",\"phone_number\":\"121323\",\"auto_approve\":true,\"incentive\":\"20\",\"tongal\":\"\"}",
+    "last_login_timestamp": "1525134149",
+    "created_timestamp": "0000-00-00 00:00:00",
+    "modified_timestamp": "2018-04-19 17:05:10",
+    "login_id": "1759121",
+    "user_id": "19",
+    "role_id": "2",
+    "status": "2",
+    "videos_count": "38"
+}

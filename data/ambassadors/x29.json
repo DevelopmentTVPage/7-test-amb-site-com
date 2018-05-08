@@ -1,0 +1,15 @@
+{
+    "id": "29",
+    "first_name": "Tester",
+    "last_name": "Testy",
+    "email": "test+12345@mail.com",
+    "data": "{\"profilePhoto\":\"\\\/api\\\/canvas\\\/logo\\\/641551894-0.4811288181226.jpg\",\"job_title\":\"Haha\",\"local_macys_store\":\"1\",\"racif_id\":\"Ba\",\"phone_number\":\"Hs\"}",
+    "last_login_timestamp": "1525298678",
+    "created_timestamp": "0000-00-00 00:00:00",
+    "modified_timestamp": "2018-04-26 21:33:01",
+    "login_id": "1759121",
+    "user_id": "29",
+    "role_id": "2",
+    "status": "2",
+    "videos_count": "0"
+}

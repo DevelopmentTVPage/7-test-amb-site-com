@@ -1,0 +1,15 @@
+{
+    "id": "1631",
+    "first_name": "Tester",
+    "last_name": "Tester",
+    "email": "tester+12345@mail.comn",
+    "data": "{\"incentive\":\"15\",\"profilePhoto\":\"\\\/\\\/sitecdn.tvpage.com\\\/player\\\/logos\\\/default_profile.jpg\",\"job_title\":\"Tester\",\"local_macys_store\":\"5\",\"racif_id\":\"233232\",\"phone_number\":\"32323\"}",
+    "last_login_timestamp": "1525258604",
+    "created_timestamp": "2018-05-02 10:21:49",
+    "modified_timestamp": "2018-05-02 10:21:49",
+    "login_id": "1759121",
+    "user_id": "1631",
+    "role_id": "2",
+    "status": "2",
+    "videos_count": "0"
+}

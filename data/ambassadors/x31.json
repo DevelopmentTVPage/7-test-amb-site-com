@@ -1,0 +1,15 @@
+{
+    "id": "31",
+    "first_name": "Chris",
+    "last_name": "Jimenez",
+    "email": "cjimenez@tvpage.com",
+    "data": "{\"profilePhoto\":\"\\\/api\\\/canvas\\\/logo\\\/372477088-0.8907975681126.jpg\",\"job_title\":\"UX Designer\",\"local_macys_store\":\"1\",\"racif_id\":\"12345678\",\"phone_number\":\"555-555-1234\",\"auto_approve\":true,\"incentive\":\"0\",\"tongal\":\"\"}",
+    "last_login_timestamp": "1525731799",
+    "created_timestamp": "0000-00-00 00:00:00",
+    "modified_timestamp": "2018-04-26 23:06:02",
+    "login_id": "1759121",
+    "user_id": "31",
+    "role_id": "2",
+    "status": "2",
+    "videos_count": "3"
+}

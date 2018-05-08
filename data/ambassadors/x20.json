@@ -1,0 +1,15 @@
+{
+    "id": "20",
+    "first_name": "Matt",
+    "last_name": "Hanan",
+    "email": "mphanan@hotmail.com",
+    "data": "{\"profilePhoto\":\"\\\/\\\/sitecdn.tvpage.com\\\/player\\\/logos\\\/default_profile.jpg\",\"job_title\":\"Grand Czar of All Things Awesome\",\"local_macys_store\":\"1\",\"racif_id\":\"0\",\"phone_number\":\"123-456-7890\"}",
+    "last_login_timestamp": "1525111202",
+    "created_timestamp": "0000-00-00 00:00:00",
+    "modified_timestamp": "2018-04-19 17:50:30",
+    "login_id": "1759121",
+    "user_id": "20",
+    "role_id": "2",
+    "status": "2",
+    "videos_count": "1"
+}
