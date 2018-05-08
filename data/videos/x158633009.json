@@ -1,0 +1,86 @@
+{
+    "title": "The Simpsons Movie - 1080p Trailer",
+    "description": "hey there",
+    "referenceId": "f93d4246157cd80b7311a6d28c938832",
+    "date_created": "1524634711",
+    "date_modified": "1524637165",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "user_id": "27",
+    "id": "158633009",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "the-simpsons-movie-1080p-trailer",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "137",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "137",
+            "width": 1920,
+            "height": 800
+        },
+        "mediaDuration": "137",
+        "prettyDuration": "00:02:17",
+        "thumbnailUrl": "\/\/v-dev.tvpage.com\/1759121\/158633009\/ceceb\/thumb-f93d4246157cd80b7311a6d28c938832-00002.jpg",
+        "type": "mp4",
+        "assetId": "158633009",
+        "assetTitle": "The Simpsons Movie - 1080p Trailer",
+        "assetTitleTextEncoded": "the-simpsons-movie-1080p-trailer",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "158633009",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v-dev.tvpage.com\/1759121\/158633009\/ceceb\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 800
+            },
+            {
+                "file": "\/\/v-dev.tvpage.com\/1759121\/158633009\/ceceb\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 534
+            },
+            {
+                "file": "\/\/v-dev.tvpage.com\/1759121\/158633009\/ceceb\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 356
+            },
+            {
+                "file": "\/\/v-dev.tvpage.com\/1759121\/158633009\/ceceb\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 266
+            },
+            {
+                "file": "\/\/v-dev.tvpage.com\/1759121\/158633009\/ceceb\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 134
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": null
+}

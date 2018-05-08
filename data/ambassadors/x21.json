@@ -1,0 +1,24 @@
+{
+    "id": "21",
+    "first_name": "Damian",
+    "last_name": "Enriques",
+    "email": "ww@ww.com",
+    "data": {
+        "profilePhoto": "\/\/sitecdn.tvpage.com\/player\/logos\/default_profile.jpg",
+        "job_title": "FDFSD",
+        "local_macys_store": "3",
+        "racif_id": "SDFDF",
+        "phone_number": "FDFD"
+    },
+    "last_login_timestamp": null,
+    "created_timestamp": "0000-00-00 00:00:00",
+    "modified_timestamp": "2018-04-20 20:41:35",
+    "login_id": "1759121",
+    "user_id": "21",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Damian Enriques",
+    "profile_picture": "\/\/sitecdn.tvpage.com\/player\/logos\/default_profile.jpg",
+    "titleTextEncoded": "damian-enriques",
+    "videos_count": "0"
+}

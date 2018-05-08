@@ -1,0 +1,88 @@
+{
+    "title": "Awesome Video",
+    "description": "This is the most awesome video you've ever seen. If you haven't seen it yet, you should. It's so awesome it invented awesome.",
+    "referenceId": "8b237e0e06dc02387fb11a756707d848",
+    "date_created": "1524184945",
+    "date_modified": "1524185154",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "user_id": "20",
+    "id": "158632973",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "vid-20180330-200413",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "21",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "21",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "21",
+        "prettyDuration": "00:00:21",
+        "thumbnailUrl": "\/\/v-dev.tvpage.com\/1759121\/158632973\/17f94\/thumb-8b237e0e06dc02387fb11a756707d848-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v-dev.tvpage.com\/1759121\/158632973\/17f94\/media.mpd",
+        "hlsUrl": "\/\/v-dev.tvpage.com\/1759121\/158632973\/17f94\/media.m3u8",
+        "assetId": "158632973",
+        "assetTitle": "VID 20180330_200413",
+        "assetTitleTextEncoded": "vid-20180330-200413",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "158632973",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v-dev.tvpage.com\/1759121\/158632973\/17f94\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v-dev.tvpage.com\/1759121\/158632973\/17f94\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v-dev.tvpage.com\/1759121\/158632973\/17f94\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v-dev.tvpage.com\/1759121\/158632973\/17f94\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v-dev.tvpage.com\/1759121\/158632973\/17f94\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": null
+}

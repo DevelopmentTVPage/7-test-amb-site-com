@@ -1,0 +1,86 @@
+{
+    "title": "makeup eyeliner tutorial",
+    "description": "great video, love itshshshshs\nShaggy\nSashays\nShah shah\n\n\nShshshz\nHays",
+    "referenceId": "5f557817106160a1e7eb2d6cc0806e25",
+    "date_created": "1524774127",
+    "date_modified": "1524944776",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "user_id": "26",
+    "id": "158633021",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "homepage-background-v3",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "35",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "35",
+            "width": 1300,
+            "height": 404
+        },
+        "mediaDuration": "35",
+        "prettyDuration": "00:00:35",
+        "thumbnailUrl": "\/\/sitecdn.tvpage.com\/dev\/users\/1759121\/canvas\/466\/350\/364528899-1524794091.JPG",
+        "type": "mp4",
+        "assetId": "158633021",
+        "assetTitle": "makeup eyeliner tutorial",
+        "assetTitleTextEncoded": "homepage-background-v3",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "158633021",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v-dev.tvpage.com\/1759121\/158633021\/27fc4\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1300,
+                "height": 404
+            },
+            {
+                "file": "\/\/v-dev.tvpage.com\/1759121\/158633021\/27fc4\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 398
+            },
+            {
+                "file": "\/\/v-dev.tvpage.com\/1759121\/158633021\/27fc4\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 266
+            },
+            {
+                "file": "\/\/v-dev.tvpage.com\/1759121\/158633021\/27fc4\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 198
+            },
+            {
+                "file": "\/\/v-dev.tvpage.com\/1759121\/158633021\/27fc4\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 100
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": null
+}

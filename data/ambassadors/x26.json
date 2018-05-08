@@ -1,0 +1,27 @@
+{
+    "id": "26",
+    "first_name": "Matty M",
+    "last_name": "B",
+    "email": "matt@criticalcode.com",
+    "data": {
+        "profilePhoto": "\/\/sitecdn.tvpage.com\/player\/logos\/default_profile.jpg",
+        "job_title": "123",
+        "local_macys_store": "-1",
+        "racif_id": "123",
+        "phone_number": "123",
+        "tongal": "123",
+        "auto_approve": true,
+        "incentive": "0%"
+    },
+    "last_login_timestamp": "1524953094",
+    "created_timestamp": "0000-00-00 00:00:00",
+    "modified_timestamp": "2018-04-25 01:03:59",
+    "login_id": "1759121",
+    "user_id": "26",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Matty M B",
+    "profile_picture": "\/\/sitecdn.tvpage.com\/player\/logos\/default_profile.jpg",
+    "titleTextEncoded": "matty-m-b",
+    "videos_count": "4"
+}

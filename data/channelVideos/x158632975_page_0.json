@@ -1,0 +1,194 @@
+{
+    "pageNumber": 0,
+    "data": [
+        {
+            "id": "158632967",
+            "title": "VID 20180418_153335",
+            "date_created": "1524090824",
+            "loginId": "1759121",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "sources": [
+                    {
+                        "file": "\/\/v-dev.tvpage.com\/1759121\/158632967\/e0a47\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 608,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/v-dev.tvpage.com\/1759121\/158632967\/e0a47\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 404,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v-dev.tvpage.com\/1759121\/158632967\/e0a47\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 270,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v-dev.tvpage.com\/1759121\/158632967\/e0a47\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 202,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v-dev.tvpage.com\/1759121\/158632967\/e0a47\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 134,
+                        "height": 240
+                    }
+                ],
+                "videoMeta": {
+                    "duration": "2",
+                    "width": 608,
+                    "height": 1080
+                },
+                "mediaDuration": "2",
+                "prettyDuration": "00:00:02",
+                "thumbnailUrl": "\/\/v-dev.tvpage.com\/1759121\/158632967\/e0a47\/thumb-87ebcdd9fefe17f73fd72a5f9268a5f5-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v-dev.tvpage.com\/1759121\/158632967\/e0a47\/media.mpd",
+                "hlsUrl": "\/\/v-dev.tvpage.com\/1759121\/158632967\/e0a47\/media.m3u8"
+            },
+            "parentId": "158632975",
+            "url": "\/test\/vid-20180418-153335\/158632975-158632967"
+        },
+        {
+            "id": "158632971",
+            "title": "big buck_bunny",
+            "date_created": "1524158452",
+            "loginId": "1759121",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "sources": [
+                    {
+                        "file": "\/\/v-dev.tvpage.com\/1759121\/158632971\/00f0c\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v-dev.tvpage.com\/1759121\/158632971\/00f0c\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v-dev.tvpage.com\/1759121\/158632971\/00f0c\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v-dev.tvpage.com\/1759121\/158632971\/00f0c\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v-dev.tvpage.com\/1759121\/158632971\/00f0c\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "videoMeta": {
+                    "duration": "60",
+                    "width": 640,
+                    "height": 360
+                },
+                "mediaDuration": "60",
+                "prettyDuration": "00:01:00",
+                "thumbnailUrl": "\/\/v-dev.tvpage.com\/1759121\/158632971\/00f0c\/thumb-fe68d79d2f9cebffa5013f78614f431d-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v-dev.tvpage.com\/1759121\/158632971\/00f0c\/media.mpd",
+                "hlsUrl": "\/\/v-dev.tvpage.com\/1759121\/158632971\/00f0c\/media.m3u8"
+            },
+            "parentId": "158632975",
+            "url": "\/test\/big-buck-bunny\/158632975-158632971"
+        },
+        {
+            "id": "158632973",
+            "title": "Awesome Video",
+            "date_created": "1524184945",
+            "loginId": "1759121",
+            "tags": "",
+            "description": "This is the most awesome video you've ever seen. If you haven't seen it yet, you should. It's so awesome it invented awesome.",
+            "asset": {
+                "videoMeta": {
+                    "duration": "21",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "21",
+                "prettyDuration": "00:00:21",
+                "thumbnailUrl": "\/\/v-dev.tvpage.com\/1759121\/158632973\/17f94\/thumb-8b237e0e06dc02387fb11a756707d848-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v-dev.tvpage.com\/1759121\/158632973\/17f94\/media.mpd",
+                "hlsUrl": "\/\/v-dev.tvpage.com\/1759121\/158632973\/17f94\/media.m3u8",
+                "assetId": "158632973",
+                "assetTitle": "VID 20180330_200413",
+                "assetTitleTextEncoded": "vid-20180330-200413",
+                "loginId": "1759121",
+                "analyticsObj": {
+                    "pg": 0,
+                    "vd": "158632973",
+                    "li": "1759121"
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v-dev.tvpage.com\/1759121\/158632973\/17f94\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/v-dev.tvpage.com\/1759121\/158632973\/17f94\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v-dev.tvpage.com\/1759121\/158632973\/17f94\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v-dev.tvpage.com\/1759121\/158632973\/17f94\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v-dev.tvpage.com\/1759121\/158632973\/17f94\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "158632975",
+            "url": "\/test\/vid-20180330-200413\/158632975-158632973"
+        }
+    ]
+}

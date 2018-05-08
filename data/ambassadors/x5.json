@@ -1,0 +1,20 @@
+{
+    "id": "5",
+    "first_name": "Damian",
+    "last_name": "Test",
+    "email": "qwe@qwe.com",
+    "data": {
+        "profilePhoto": "\/\/sitecdn.tvpage.com\/player\/logos\/default_profile.jpg"
+    },
+    "last_login_timestamp": "1524152802",
+    "created_timestamp": "0000-00-00 00:00:00",
+    "modified_timestamp": "2018-04-18 22:10:25",
+    "login_id": "1759121",
+    "user_id": "5",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Damian Test",
+    "profile_picture": "\/\/sitecdn.tvpage.com\/player\/logos\/default_profile.jpg",
+    "titleTextEncoded": "damian-test",
+    "videos_count": "1"
+}

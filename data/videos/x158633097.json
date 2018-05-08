@@ -1,0 +1,86 @@
+{
+    "title": "Step 2 Work",
+    "description": "Shoes Makeup Lipstick",
+    "referenceId": "d72b8cd7a976c6e4d606ab549db9428d",
+    "date_created": "1525123478",
+    "date_modified": "1525123739",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "user_id": "31",
+    "id": "158633097",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "step2",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "61",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "61",
+            "width": 160,
+            "height": 120
+        },
+        "mediaDuration": "61",
+        "prettyDuration": "00:01:01",
+        "thumbnailUrl": "\/\/v-dev.tvpage.com\/1759121\/158633097\/1ef65\/thumb-d72b8cd7a976c6e4d606ab549db9428d-00002.jpg",
+        "type": "mp4",
+        "assetId": "158633097",
+        "assetTitle": "step2",
+        "assetTitleTextEncoded": "step2",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "158633097",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v-dev.tvpage.com\/1759121\/158633097\/1ef65\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 160,
+                "height": 120
+            },
+            {
+                "file": "\/\/v-dev.tvpage.com\/1759121\/158633097\/1ef65\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 160,
+                "height": 120
+            },
+            {
+                "file": "\/\/v-dev.tvpage.com\/1759121\/158633097\/1ef65\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 160,
+                "height": 120
+            },
+            {
+                "file": "\/\/v-dev.tvpage.com\/1759121\/158633097\/1ef65\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 160,
+                "height": 120
+            },
+            {
+                "file": "\/\/v-dev.tvpage.com\/1759121\/158633097\/1ef65\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 160,
+                "height": 120
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": null
+}
