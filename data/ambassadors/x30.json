@@ -3,7 +3,13 @@
     "first_name": "asd",
     "last_name": "asd",
     "email": "asd@asd.com",
-    "data": "{\"profilePhoto\":\"\\\/\\\/sitecdn.tvpage.com\\\/player\\\/logos\\\/default_profile.jpg\",\"job_title\":\"asd\",\"local_macys_store\":\"3\",\"racif_id\":\"asd\",\"phone_number\":\"asd\"}",
+    "data": {
+        "profilePhoto": "\/\/sitecdn.tvpage.com\/player\/logos\/default_profile.jpg",
+        "job_title": "asd",
+        "local_macys_store": "3",
+        "racif_id": "asd",
+        "phone_number": "asd"
+    },
     "last_login_timestamp": null,
     "created_timestamp": "0000-00-00 00:00:00",
     "modified_timestamp": "2018-04-26 21:35:56",
@@ -11,5 +17,8 @@
     "user_id": "30",
     "role_id": "2",
     "status": "1",
+    "fullName": "asd asd",
+    "profile_picture": "\/\/sitecdn.tvpage.com\/player\/logos\/default_profile.jpg",
+    "titleTextEncoded": "asd-asd",
     "videos_count": "0"
 }

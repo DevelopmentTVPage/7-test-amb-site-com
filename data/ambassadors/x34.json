@@ -3,7 +3,16 @@
     "first_name": "Wendye",
     "last_name": "Flores",
     "email": "wendyeflores30@gmail.com",
-    "data": "{\"profilePhoto\":\"\/\/sitecdn.tvpage.com\/player\/logos\/default_profile.jpg\",\"job_title\":\"Sales Associate\",\"local_macys_store\":\"236\",\"racif_id\":\"10308345\",\"phone_number\":\"8058899285\",\"auto_approve\":false,\"incentive\":\"0\",\"tongal\":\"\"}",
+    "data": {
+        "profilePhoto": "\/\/sitecdn.tvpage.com\/player\/logos\/default_profile.jpg",
+        "job_title": "Sales Associate",
+        "local_macys_store": "236",
+        "racif_id": "10308345",
+        "phone_number": "8058899285",
+        "auto_approve": false,
+        "incentive": "0",
+        "tongal": ""
+    },
     "last_login_timestamp": "1524906148",
     "created_timestamp": "0000-00-00 00:00:00",
     "modified_timestamp": "2018-04-27 08:12:31",
@@ -11,5 +20,8 @@
     "user_id": "34",
     "role_id": "2",
     "status": "1",
+    "fullName": "Wendye Flores",
+    "profile_picture": "\/\/sitecdn.tvpage.com\/player\/logos\/default_profile.jpg",
+    "titleTextEncoded": "wendye-flores",
     "videos_count": "0"
 }

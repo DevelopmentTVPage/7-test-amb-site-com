@@ -3,7 +3,12 @@
     "first_name": "Damian",
     "last_name": "Enriquez",
     "email": "111@111.com",
-    "data": "{\"profilePhoto\":\"\/\/sitecdn.tvpage.com\/player\/logos\/default_profile.jpg\",\"auto_approve\":true,\"incentive\":\"0\",\"tongal\":\"\"}",
+    "data": {
+        "profilePhoto": "\/\/sitecdn.tvpage.com\/player\/logos\/default_profile.jpg",
+        "auto_approve": true,
+        "incentive": "0",
+        "tongal": ""
+    },
     "last_login_timestamp": "1524089030",
     "created_timestamp": "2018-04-11 04:35:52",
     "modified_timestamp": "2018-04-11 04:35:52",
@@ -11,5 +16,8 @@
     "user_id": "1",
     "role_id": "2",
     "status": "2",
+    "fullName": "Damian Enriquez",
+    "profile_picture": "\/\/sitecdn.tvpage.com\/player\/logos\/default_profile.jpg",
+    "titleTextEncoded": "damian-enriquez",
     "videos_count": "0"
 }

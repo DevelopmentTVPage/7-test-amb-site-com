@@ -3,7 +3,13 @@
     "first_name": "Shantel",
     "last_name": "Jackson",
     "email": "s914@hotmail.com",
-    "data": "{\"profilePhoto\":\"\\\/\\\/sitecdn.tvpage.com\\\/player\\\/logos\\\/default_profile.jpg\",\"job_title\":\"Counter Manager\",\"local_macys_store\":\"66\",\"racif_id\":\"71755565\",\"phone_number\":\"8455367418\"}",
+    "data": {
+        "profilePhoto": "\/\/sitecdn.tvpage.com\/player\/logos\/default_profile.jpg",
+        "job_title": "Counter Manager",
+        "local_macys_store": "66",
+        "racif_id": "71755565",
+        "phone_number": "8455367418"
+    },
     "last_login_timestamp": null,
     "created_timestamp": "0000-00-00 00:00:00",
     "modified_timestamp": "2018-04-26 23:08:50",
@@ -11,5 +17,8 @@
     "user_id": "32",
     "role_id": "2",
     "status": "1",
+    "fullName": "Shantel Jackson",
+    "profile_picture": "\/\/sitecdn.tvpage.com\/player\/logos\/default_profile.jpg",
+    "titleTextEncoded": "shantel-jackson",
     "videos_count": "0"
 }

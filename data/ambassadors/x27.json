@@ -3,7 +3,16 @@
     "first_name": "Joe",
     "last_name": "Testman",
     "email": "alloncaidar@gmail.com",
-    "data": "{\"profilePhoto\":\"\\\/api\\\/canvas\\\/logo\\\/433277490-0.3818551763426.jpg\",\"job_title\":\"Testman\",\"local_macys_store\":\"14\",\"racif_id\":\"54362\",\"phone_number\":\"5345245343\",\"tongal\":\"IDjkhljkhg\",\"auto_approve\":false,\"incentive\":\"30%\"}",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/433277490-0.3818551763426.jpg",
+        "job_title": "Testman",
+        "local_macys_store": "14",
+        "racif_id": "54362",
+        "phone_number": "5345245343",
+        "tongal": "IDjkhljkhg",
+        "auto_approve": false,
+        "incentive": "30%"
+    },
     "last_login_timestamp": "1525116079",
     "created_timestamp": "0000-00-00 00:00:00",
     "modified_timestamp": "2018-04-25 01:40:11",
@@ -11,5 +20,8 @@
     "user_id": "27",
     "role_id": "2",
     "status": "2",
+    "fullName": "Joe Testman",
+    "profile_picture": "\/api\/canvas\/logo\/433277490-0.3818551763426.jpg",
+    "titleTextEncoded": "joe-testman",
     "videos_count": "1"
 }

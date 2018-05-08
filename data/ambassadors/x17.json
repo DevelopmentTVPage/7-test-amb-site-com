@@ -3,7 +3,16 @@
     "first_name": "asd",
     "last_name": "asd",
     "email": "mbabineau1@tvpage.com",
-    "data": "{\"profilePhoto\":\"\/\/sitecdn.tvpage.com\/player\/logos\/default_profile.jpg\",\"job_title\":\"asd\",\"local_macys_store\":\"3\",\"racif_id\":\"asd\",\"phone_number\":\"asd\",\"auto_approve\":false,\"incentive\":\"0\",\"tongal\":\"\"}",
+    "data": {
+        "profilePhoto": "\/\/sitecdn.tvpage.com\/player\/logos\/default_profile.jpg",
+        "job_title": "asd",
+        "local_macys_store": "3",
+        "racif_id": "asd",
+        "phone_number": "asd",
+        "auto_approve": false,
+        "incentive": "0",
+        "tongal": ""
+    },
     "last_login_timestamp": null,
     "created_timestamp": "0000-00-00 00:00:00",
     "modified_timestamp": "2018-04-19 01:50:24",
@@ -11,5 +20,8 @@
     "user_id": "17",
     "role_id": "2",
     "status": "2",
+    "fullName": "asd asd",
+    "profile_picture": "\/\/sitecdn.tvpage.com\/player\/logos\/default_profile.jpg",
+    "titleTextEncoded": "asd-asd",
     "videos_count": "0"
 }

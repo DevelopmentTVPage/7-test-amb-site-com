@@ -3,7 +3,13 @@
     "first_name": "Shreyas",
     "last_name": "Dorle",
     "email": "sdorlemacys@tvpage.com",
-    "data": "{\"profilePhoto\":\"\\\/\\\/sitecdn.tvpage.com\\\/player\\\/logos\\\/default_profile.jpg\",\"job_title\":\"Manager\",\"local_macys_store\":\"1\",\"racif_id\":\"1233456344\",\"phone_number\":\"1234567892\"}",
+    "data": {
+        "profilePhoto": "\/\/sitecdn.tvpage.com\/player\/logos\/default_profile.jpg",
+        "job_title": "Manager",
+        "local_macys_store": "1",
+        "racif_id": "1233456344",
+        "phone_number": "1234567892"
+    },
     "last_login_timestamp": "1525464872",
     "created_timestamp": "0000-00-00 00:00:00",
     "modified_timestamp": "2018-04-27 05:14:56",
@@ -11,5 +17,8 @@
     "user_id": "33",
     "role_id": "2",
     "status": "2",
+    "fullName": "Shreyas Dorle",
+    "profile_picture": "\/\/sitecdn.tvpage.com\/player\/logos\/default_profile.jpg",
+    "titleTextEncoded": "shreyas-dorle",
     "videos_count": "0"
 }
